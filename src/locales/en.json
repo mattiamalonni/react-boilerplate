@@ -1,13 +1,16 @@
 {
   "containers": {
-    "users": {
-      "title": "Users"
-    },
     "home": {
       "title": "Home"
     },
     "login": {
       "title": "Login"
+    },
+    "users": {
+      "title": "Users"
+    },
+    "user": {
+      "title": "User"
     }
   },
   "components": {

@@ -8,6 +8,9 @@
     },
     "users": {
       "title": "Utenti"
+    },
+    "user": {
+      "title": "Utente"
     }
   },
   "components": {
