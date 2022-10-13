@@ -1,7 +1,28 @@
 {
   "name": "mattiamalonni.blilerplate.react",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.1.0",
+  "description": "React boilerplate using vite, redux-toolkit, redux-saga, tailwind and i18next",
+  "keywords": [
+    "react",
+    "react-boilerplate",
+    "react-redux",
+    "vitejs",
+    "redux",
+    "redux-toolkit",
+    "redux-saga",
+    "i18n",
+    "i18next",
+    "tailwindcss"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mattia Malonni",
+    "email": "mattia.malonnni@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattiamalonni/react-boilerplate.git"
+  },
   "scripts": {
     "start": "vite",
     "build": "vite build"
