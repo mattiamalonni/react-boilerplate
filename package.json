@@ -1,5 +1,5 @@
 {
-  "name": "mattiamalonni.blilerplate.react",
+  "name": "mattiamalonni.boilerplate.react",
   "version": "0.1.0",
   "description": "React boilerplate using vite, redux-toolkit, redux-saga, tailwind and i18next",
   "keywords": [
