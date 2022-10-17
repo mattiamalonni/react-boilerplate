@@ -6,7 +6,7 @@
   "singleQuote": true,
   "trailingComma": "all",
   "arrowParens": "avoid",
-  "importOrder": ["^containers/(.*)$", "^components/(.*)$", "^[./]"],
+  "importOrder": ["^(.*)/layouts(.*)$", "^(.*)/containers(.*)$", "^(.*)/components(.*)$", "^[./]"],
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true
 }
